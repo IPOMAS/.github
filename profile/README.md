@@ -13,14 +13,14 @@ Our mission is to improve operational efficiency, reduce downtime, enhance produ
 # Our Team
 
 ## Software Engineering
-1. Amal – Software Engineering
+1. Satria Amal Samosir – Software Engineering
 2. Fahri – Software Engineering
 3. Willy – Software Engineering
 4. Andika – Software Engineering
 
 ## AI / ML Engineering
 1. Kevin – AI / ML Engineering
-2. Fitra – AI / ML Engineering
+2. [https://github.com/ch-fitra] – AI / ML Engineering
 
 ---
 
@@ -94,8 +94,8 @@ Our mission is to improve operational efficiency, reduce downtime, enhance produ
 # Organization Repositories
 
 ## Core Repositories
-- Software-Engineering
-- AI-ML-Engineering
+- [Software-Engineering](https://github.com/IPOMAS/Software-Engineering)
+- [AI-ML-Engineering](https://github.com/IPOMAS/AI-ML-Engineering)
 
 ---
 
