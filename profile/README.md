@@ -13,14 +13,14 @@ Our mission is to improve operational efficiency, reduce downtime, enhance produ
 # Our Team
 
 ## Software Engineering
-1. Satria Amal Samosir – Software Engineering
-2. Fahri – Software Engineering
-3. Willy – Software Engineering
-4. Andika – Software Engineering
+1. Satria Amal Samosir – Software Engineer
+2. Muhammad Fahri – Software Engineer
+3. Willy Rumapea – Software Engineer
+4. Andika Rafael Sitorus – Software Engineer
 
 ## AI / ML Engineering
-1. Kevin – AI / ML Engineering
-2. [https://github.com/ch-fitra] – AI / ML Engineering
+1. Kevin Arya Swardhana – AI / ML Engineer
+2. Chairul Fitra Ramadhan – AI / ML Engineer
 
 ---
 
